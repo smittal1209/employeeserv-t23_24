@@ -44,3 +44,7 @@ We would like you to enhance the existing project and see you complete the follo
 
 Thank you very much for your time to take this test. Please upload this complete solution in Github and send us the link
 to `bfs-sor-interview@paypal.com`.
+
+## Postman Collection to Test the APIs
+
+https://www.getpostman.com/collections/08f230e4deb71077ab61
